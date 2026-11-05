@@ -1,0 +1,18 @@
+# Dependências-base para a maior parte dos exemplos.
+# Instale em ambiente virtual; pacotes especiais estão em requirements-opcionais.txt
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+joblib
+jupyterlab
+notebook
+ipykernel
+nbclient
+nbformat
+xgboost
+catboost
+shap

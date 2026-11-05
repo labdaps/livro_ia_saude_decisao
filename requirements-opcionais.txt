@@ -1,0 +1,12 @@
+# Instalar individualmente conforme o capítulo; compatibilidade depende do Python e SO.
+# Não há garantia de execução das APIs originais sem adequações.
+pydicom
+boruta
+fairlearn
+river
+deep-river
+torch
+torchvision
+tensorflow
+flwr
+tabpfn
